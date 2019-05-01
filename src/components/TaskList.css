@@ -1,0 +1,12 @@
+tr >td {
+    text-align: center;
+}
+tr >th {
+    text-align: center;
+}
+.action {
+    border: 1px solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
